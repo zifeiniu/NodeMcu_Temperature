@@ -1,6 +1,8 @@
 
 # NodeMcu_Temperature
  Use NodeMcu make a Temperature and humidity sensor with LCD
+ 
+![image](https://raw.githubusercontent.com/zifeiniu/NodeMcu_Temperature/master/demo.jpg)
 
 
 小米的温湿度传感器坏了，不带屏幕。就一个硬币大小，还得配合小米网关使用。。买不起我就自己做一个。。
